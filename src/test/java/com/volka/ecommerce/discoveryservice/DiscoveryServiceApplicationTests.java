@@ -1,10 +1,10 @@
-package com.volka.ecommerce_eureka;
+package com.volka.ecommerce.discoveryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EcommerceEurekaApplicationTests {
+class DiscoveryServiceApplicationTests {
 
     @Test
     void contextLoads() {
